@@ -1,0 +1,2 @@
++custom allocator - memory map for node allocation
++read in stdin and use trie to check for duplicates
